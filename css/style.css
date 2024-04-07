@@ -123,7 +123,7 @@ SP
  .flex {
     flex-direction: column;
  }
- .flex image {
+ .flex .image {
     width: 100%;
  }
  /*
